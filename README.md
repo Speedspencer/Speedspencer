@@ -24,7 +24,7 @@ I have been studying in game development actively for almost 2 years now
 
 ---
 
-![Certificate.png](https://github.com/Speedspencer/Speedspencer/blob/main/Certificate.png)
+![image.png](https://images.credly.com/size/340x340/images/99becefb-f627-413c-8ad3-b52534e50037/image.png)
 
 - Unity Engine - 2 Years
 
