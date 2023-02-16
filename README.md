@@ -1,7 +1,5 @@
 # Hi There, I’m Puree Pangma
 
----
-
 You can also call me Petch.
 
 I currently studying in Bangkok University
@@ -10,7 +8,6 @@ School of Information Technology and Innovation - Games and Interactive Media Ma
 
 ## I’m a Unity Game Developer
 
----
 
 I have been studying in game development actively for almost 2 years now 
 
