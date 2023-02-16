@@ -28,7 +28,7 @@ I have been studying in game development actively for almost 2 years now
 
 - Unity Engine - 2 Years
 
-![Untitled](Hi%20There,%20I%E2%80%99m%20Puree%20Pangma%20df988ac569b540f8b33c95ada9db9230/Untitled.png)
+![cSharp.png](https://github.com/Speedspencer/Speedspencer/blob/main/cSharp.png)
 
 - C# - 2 Years
 
